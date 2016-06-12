@@ -1,0 +1,43 @@
+c:\users\алексей\documents\visual studio 2013\Projects\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.exe.config
+c:\users\алексей\documents\visual studio 2013\Projects\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.exe
+c:\users\алексей\documents\visual studio 2013\Projects\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.pdb
+c:\users\алексей\documents\visual studio 2013\Projects\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2013\Projects\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Form1.resources
+c:\users\алексей\documents\visual studio 2013\Projects\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2013\Projects\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.csproj.GenerateResource.Cache
+c:\users\алексей\documents\visual studio 2013\Projects\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.exe
+c:\users\алексей\documents\visual studio 2013\Projects\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.pdb
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Login.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.exe.config
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Form1.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Login.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.exe.config
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Form1.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Login.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.exe.config
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\bin\Debug\UI design assignment 1.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Form1.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Login.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\obj\Debug\UI_design_assignment_1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design assignment 1\UI design assignment 1\obj\Debug\UI design assignment 1.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design desktop\UI design assignment 1\bin\Debug\UI design assignment 1.exe.config
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design desktop\UI design assignment 1\obj\Debug\UI design assignment 1.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design desktop\UI design assignment 1\obj\Debug\UI design assignment 1.pdb
